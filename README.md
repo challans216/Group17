@@ -32,7 +32,7 @@ comprehensive strategy for upholding a healthy way of life.
 
 ## React codes:
 
-![1](Register.png)
+![1](finalproject/Register.png)
 
 ![2](Login.png)
 
