@@ -32,16 +32,16 @@ comprehensive strategy for upholding a healthy way of life.
 
 ## React codes:
 
-![1](images/Register.png)
+![1](Register.png)
 
-![2](images/Login.png)
+![2](Login.png)
 
-![3](images/AyurvedicTipsPage.png)
+![3](AyurvedicTipsPage.png)
 
-![4](images/EmergencyMedicinePage.png)
+![4](EmergencyMedicinePage.png)
 
-![5](images/HealthGamesPage.png)
+![5](HealthGamesPage.png)
 
-![6](images/SubscriptionDeliveryPage.png)
+![6](SubscriptionDeliveryPage.png)
 
-![7](images/App.png)
+![7](App.png)
