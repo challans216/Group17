@@ -55,3 +55,21 @@ The below code describes about Subscription DeliveryPage
 The final App for our project.
 
 ![7](finalproject/App.png)
+
+
+## Output:
+
+The user create page:
+
+
+
+The user login page
+
+
+
+The Home Page
+
+
+The Features
+
+
