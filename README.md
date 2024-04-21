@@ -61,32 +61,32 @@ The final App for our project.
 
 The user create page:
 
-![7](finalproject/create.png)
+![7](finalproject/create.jpeg)
 
 
 The user login page
 
-![7](finalproject/login.png)
+![7](finalproject/login.jpeg)
 
 
 If Invalid credentials are provided then it gives an alert.
 
-![7](finalproject/error.png)
+![7](finalproject/error.jpeg)
 
 
 The Home Page
 
-![7](finalproject/Home.png)
+![7](finalproject/Home.jpeg)
 
 
 The Features
 
-![7](finalproject/emermed.png)
+![7](finalproject/emermed.jpeg)
 
-![7](finalproject/games.png)
+![7](finalproject/games.jpeg)
 
-![7](finalproject/tip.png)
+![7](finalproject/tip.jpeg)
 
-![7](finalproject/tips.png)
+![7](finalproject/tips.jpeg)
 
 
