@@ -61,32 +61,32 @@ The final App for our project.
 
 The user create page:
 
-![7](finalproject/create.jpeg)
+![7](finalproject/create.jpeg){width=250px height=250px}
 
 
 The user login page
 
-![7](finalproject/login.jpeg)
+![7](finalproject/login.jpeg){width=250px height=250px}
 
 
 If Invalid credentials are provided then it gives an alert.
 
-![7](finalproject/error.jpeg)
+![7](finalproject/error.jpeg){width=250px height=250px}
 
 
 The Home Page
 
-![7](finalproject/Home.jpeg)
+![7](finalproject/Home.jpeg){width=250px height=250px}
 
 
 The Features
 
-![7](finalproject/emermed.jpeg)
+![7](finalproject/emermed.jpeg){width=250px height=250px}
 
-![7](finalproject/games.jpeg)
+![7](finalproject/games.jpeg){width=250px height=250px}
 
-![7](finalproject/tip.jpeg)
+![7](finalproject/tip.jpeg){width=250px height=250px}
 
-![7](finalproject/tips.jpeg)
+![7](finalproject/tips.jpeg){width=250px height=250px}
 
 
