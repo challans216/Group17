@@ -36,12 +36,12 @@ comprehensive strategy for upholding a healthy way of life.
 
 ![2](finalproject/Login.png)
 
-![3](AyurvedicTipsPage.png)
+![3](finalproject/AyurvedicTipsPage.png)
 
-![4](EmergencyMedicinePage.png)
+![4](finalproject/EmergencyMedicinePage.png)
 
-![5](HealthGamesPage.png)
+![5](finalproject/HealthGamesPage.png)
 
-![6](SubscriptionDeliveryPage.png)
+![6](finalproject/SubscriptionDeliveryPage.png)
 
-![7](App.png)
+![7](finalproject/App.png)
