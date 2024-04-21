@@ -61,15 +61,32 @@ The final App for our project.
 
 The user create page:
 
+![7](finalproject/create.png)
 
 
 The user login page
 
+![7](finalproject/login.png)
+
+
+If Invalid credentials are provided then it gives an alert.
+
+![7](finalproject/error.png)
 
 
 The Home Page
 
+![7](finalproject/Home.png)
+
 
 The Features
+
+![7](finalproject/emermed.png)
+
+![7](finalproject/games.png)
+
+![7](finalproject/tip.png)
+
+![7](finalproject/tips.png)
 
 
