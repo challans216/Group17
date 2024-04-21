@@ -31,17 +31,27 @@ Moreover, the integration of captivating elements such as games pertaining to he
 comprehensive strategy for upholding a healthy way of life.
 
 ## React codes:
+Below are the codes for our project:
 
+The below code describes about register page:
 ![1](finalproject/Register.png)
 
+The below code describes about login page
 ![2](finalproject/Login.png)
 
+The below code describes about AyurvedicTipsPage
 ![3](finalproject/AyurvedicTipsPage.png)
 
+The below code describes about EmergencyMedicinePage
 ![4](finalproject/EmergencyMedicinePage.png)
 
+The below code describes about HealthGamesPage
 ![5](finalproject/HealthGamesPage.png)
 
+The below code describes about Subscription DeliveryPage
 ![6](finalproject/SubscriptionDeliveryPage.png)
+
+
+The final App for our project.
 
 ![7](finalproject/App.png)
