@@ -30,4 +30,19 @@ also intends to provide helpful health advice for common health conditions, with
 Moreover, the integration of captivating elements such as games pertaining to health aims to establish a
 comprehensive strategy for upholding a healthy way of life.
 
-React codes:
+## React codes:
+
+![1](images/Register.png)
+
+![2](images/Login.png)
+
+![3](images/AyurvedicTipsPage.png)
+
+![4](images/EmergencyMedicinePage.png)
+
+![5](images/HealthGamesPage.png)
+
+![6](images/SubscriptionDeliveryPage.png)
+
+![7](images/App.png)
+
